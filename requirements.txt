@@ -1,0 +1,5 @@
+# requirements.txt
+
+# No additional packages are required since Tkinter is typically included with Python.
+# Ensure that you have Python 3.6 or higher installed otherwise it won't work.
+python>=3.6
